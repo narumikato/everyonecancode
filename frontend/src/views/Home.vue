@@ -1,4 +1,4 @@
-<template>
+git checkout update-title-and-color<template>
   <div id="app">
     <b-navbar fixed-top :mobile-burger="false">
       <template #brand>
@@ -6,8 +6,8 @@
         <div id="right"></div>
         <div id="top"></div>
         <div id="bottom"></div>
-        <b-navbar-item id="fontnavbar" class="title is-2">
-          Milligram
+        <b-navbar-item id="fontnavbar" class="title is-2" style="color: PaleVioletRed">
+          Narumigram
         </b-navbar-item>
       </template>
     </b-navbar>
